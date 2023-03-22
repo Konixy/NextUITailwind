@@ -1,0 +1,25 @@
+{
+  "name": "nextuitailwind",
+  "version": "0.1.0",
+  "description": "NextUI but working with Tailwind",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konixy/NextUITailwind.git"
+  },
+  "keywords": [
+    "nextui",
+    "tailwind",
+    "tailwindcss",
+    "tailwindui"
+  ],
+  "author": "Konixy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Konixy/NextUITailwind/issues"
+  },
+  "homepage": "https://github.com/Konixy/NextUITailwind#readme"
+}
